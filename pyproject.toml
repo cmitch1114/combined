@@ -1,0 +1,17 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "bcrypt>=4.3.0",
+    "beautifulsoup4>=4.13.4",
+    "flask>=3.1.1",
+    "holidays>=0.73",
+    "matplotlib>=3.10.3",
+    "modules>=1.0.0",
+    "numpy>=2.2.6",
+    "requests>=2.32.3",
+    "selenium>=4.33.0",
+    "webdriver-manager>=4.0.2",
+]
